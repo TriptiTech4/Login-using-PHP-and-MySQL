@@ -34,6 +34,6 @@ This project showcases a login system developed using PHP and MySQL. It includes
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request..
 
 ## Contact
-For any inquiries or questions, please contact [dsumeet14@rediffmail.com](mailto:triptisri222@gmail.com).
+For any inquiries or questions, please contact(mailto:triptisri222@gmail.com).
 
 Enjoy using the Login Page Using PHP and MySQL project!
